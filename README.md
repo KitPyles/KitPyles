@@ -10,4 +10,4 @@
 ### 😄 My Pronouns: Fae/Faem
 <hr/>
 
-### ![Red fox pouncing in snow](fox.gif) My Links:
+### ![Red fox pouncing in snow](links-pounce.gif) My Links:
