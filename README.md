@@ -1,4 +1,4 @@
-![profile banner, Rainbow flag emoji, Kit, LGBTQIA+, Libra-Scorpio-Capricorn emojis, briefcase emoji, LaunchCode Graduate, keyboard emoji, JavaScript, Java, HTML5/CSS3, 5 o'clock emoji, music, code, games, read]()
+![profile banner, Rainbow flag emoji, Kit, LGBTQIA+, Libra-Scorpio-Capricorn emojis, briefcase emoji, LaunchCode Graduate, keyboard emoji, JavaScript, Java, HTML5/CSS3, 5 o'clock emoji, music, code, games, read](https://github.com/KitPyles/KitPyles/blob/main/GH-Banner.png)
 <hr/>
 
 ### 🔭 I’m currently working on:
@@ -7,4 +7,5 @@
 
 ### 😄 My Pronouns: Fae/Faem
 
-###<img src="https://github.com/KitPyles/KitPyles/blob/main/fox.gif" style="width: 100px" alt="Red fox pouncing in snow"> My Links:
+<img src="https://github.com/KitPyles/KitPyles/blob/main/fox.gif" style="width: 100px" alt="Red fox pouncing in snow"/>
+### My Links:
