@@ -1,4 +1,6 @@
-![profile banner, Rainbow flag emoji, Kit, LGBTQIA+, Libra-Scorpio-Capricorn emojis, briefcase emoji, LaunchCode Graduate, keyboard emoji, JavaScript, Java, HTML5/CSS3, 5 o'clock emoji, music, code, games, read](https://github.com/KitPyles/KitPyles/blob/main/GH-Banner.png)
+<p align="center">
+  <img src="banner.png" alt="profile banner, Rainbow flag emoji, Kit, LGBTQIA+, Libra-Scorpio-Capricorn emojis, briefcase emoji, LaunchCode Graduate, keyboard emoji, JavaScript, Java, HTML5/CSS3, 5 o'clock emoji, music, code, games, read"/>
+</p>
 <hr/>
 
 ### 🔭 I’m currently working on:
@@ -6,6 +8,6 @@
 * A patient-centric universal health record ([LaunchCode LiftOff group project](https://github.com/Jan-23-Liftoff-KC/team-hyunsu-group-repo))
 
 ### 😄 My Pronouns: Fae/Faem
+<hr/>
 
-<img src="https://github.com/KitPyles/KitPyles/blob/main/fox.gif" style="width: 100px" alt="Red fox pouncing in snow"/>
-### My Links:
+### ![Red fox pouncing in snow](fox.gif) My Links:
