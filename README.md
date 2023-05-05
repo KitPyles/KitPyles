@@ -4,7 +4,7 @@
 <hr/>
 
 ### 🔭 I’m currently working on:
-* Solo Project: A [JavaScript Arcade}(https://github.com/KitPyles/7-javascript-games) following freeCodeCamp's [Learn JavaScript by Building 7 Games - Full Tutorial](https://www.youtube.com/watch?v=ec8vSKJuZTk) combined into a monorepo to compile them all into a single website. I plan on adding additional levels to the games with increased difficulty, & on learning TailwindCSS to improve the look & accessibility of the site. The WIP site is hosted [here](kitpyles.up.railway.app).
+* Solo Project: A [JavaScript Arcade](https://github.com/KitPyles/7-javascript-games) following freeCodeCamp's [Learn JavaScript by Building 7 Games - Full Tutorial](https://www.youtube.com/watch?v=ec8vSKJuZTk) combined into a monorepo to compile them all into a single website. I plan on adding additional levels to the games with increased difficulty, & on learning TailwindCSS to improve the look & accessibility of the site. The WIP site is hosted [here](kitpyles.up.railway.app).
 
 <hr/>
 
