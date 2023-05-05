@@ -4,8 +4,7 @@
 <hr/>
 
 ### 🔭 I’m currently working on:
-* Collaborative Project: A patient-centric universal health record ([Health eHub](https://github.com/Jan-23-Liftoff-KC/team-hyunsu-group-repo))
-* Solo Project: A persistent MVC with MySQL refactor of a [previous HTML project](https://github.com/KC-LC101-June-22/js-assignment-4-html-me-something-KitPyles) ([Grimoire Refactor MVC](https://github.com/KitPyles/Grimoire-refactor-MVC))
+* Solo Project: A JavaScript Arcade following freeCodeCamp's [Learn JavaScript by Building 7 Games - Full Tutorial](https://www.youtube.com/watch?v=ec8vSKJuZTk) combined into a monorepo to compile them all into a single website. I plan on adding additional levels to the games with increased difficulty, & on learning TailwindCSS to improve the look & accessibility of the site.
 
 <hr/>
 
