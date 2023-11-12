@@ -3,6 +3,12 @@
 </p>
 <hr/>
 
+# 💫 Last Update
+<!-- DEFAULT-TAG:START -->
+<!-- DEFAULT-TAG:END -->
+
+<hr/>
+
 ### 🔭 I’m currently working on:
 * Solo Project: A [JavaScript Arcade](https://github.com/KitPyles/7-javascript-games) following freeCodeCamp's [Learn JavaScript by Building 7 Games - Full Tutorial](https://www.youtube.com/watch?v=ec8vSKJuZTk) combined into a monorepo to compile them all into a single website. I plan on adding additional levels to the games with increased difficulty, & on overhauling the CSS to improve the look & accessibility of the site. The WIP site is hosted [here](https://kitpyles.up.railway.app).
 * Learning React.js from Udemy. [React - The Complete Guide 2023](https://gale.udemy.com/course/react-the-complete-guide-incl-redux/learn).
